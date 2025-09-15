@@ -20,3 +20,7 @@ git config --global user.email uoe8001@naver.com  (사용자 전자메일)
 git config --global core.autocrlf true (줄바꿈자동변환)
 
 git config --global core.safecrlf false (줄바꿈안정설정)
+
+git config --global core.editor 'core --wait' (기본편집기 설정)
+
+git config --global init.defaultBranch main (기본브랜치이름
