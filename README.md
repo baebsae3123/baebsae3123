@@ -16,3 +16,7 @@ git config --global --edit 전역설정 파일 편집
 git config --global user.name baebsae3123 (사용자이름)
 
 git config --global user.email uoe8001@naver.com  (사용자 전자메일)
+
+git config --global core.autocrlf true (줄바꿈자동변환)
+
+git config --global core.safecrlf false (줄바꿈안정설정)
