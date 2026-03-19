@@ -11,8 +11,6 @@ DB에서 데이터 가져오기 (SQL) 엑셀 / CSV 정리 / 이상한 값 제거
 
 그래프로 보기 쉽게 만들기 / 추세 확인
 
-👉 주로 쓰는 것:matplotlib
-
 AI 개발자
 사용자 행동 분석/구매 데이터 분석/추천 시스템 개선
 
@@ -24,7 +22,9 @@ AI 개발자
 ![JSP](https://img.shields.io/badge/JSP-FF6F00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ### 🐧 OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
