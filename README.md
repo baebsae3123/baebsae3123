@@ -38,3 +38,12 @@ AI 개발자
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+## 📜 Certifications
+
+![정보처리 산업기사](https://img.shields.io/badge/정보처리%20산업기사-0052CC?style=for-the-badge&logo=bookstack&logoColor=white)
+![정보처리응용기능사](https://img.shields.io/badge/정보처리응용기능사-1E90FF?style=for-the-badge&logo=book&logoColor=white)
+![정보처리기능사](https://img.shields.io/badge/정보처리기능사-4682B4?style=for-the-badge&logo=book&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![한글](https://img.shields.io/badge/한글-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)
