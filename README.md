@@ -16,7 +16,7 @@ DB에서 데이터 가져오기 (SQL) 엑셀 / CSV 정리 / 이상한 값 제거
 AI 개발자
 사용자 행동 분석/구매 데이터 분석/추천 시스템 개선
 
-## 💻 Tech Stack
+## 💻 사용 넒이 
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
