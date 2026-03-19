@@ -30,9 +30,17 @@ AI 개발자
 구매 데이터 분석/
 추천 시스템 개선/
 
-# 사용언어
- PYTHON / JAVA / Jsp 
-# 데이터베이스
- Mysql , csv , json
-# 개발환경
- Vscode 
+## 💻 Tech Stack
+
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge&logo=files&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### 🛠️ Development
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
