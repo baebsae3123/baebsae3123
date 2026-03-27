@@ -34,10 +34,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=baebsae3123&theme=tokyonight" />
-</p>
-
-<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=baebsae3123&theme=tokyonight"/>
 
