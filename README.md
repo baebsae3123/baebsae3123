@@ -15,9 +15,7 @@ AI 개발자
 사용자 행동 분석/구매 데이터 분석/추천 시스템 개선
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=baebsae3123&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baebsae3123&layout=compact&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baebsae3123&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_ID&theme=tokyonight)
