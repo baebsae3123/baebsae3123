@@ -4,6 +4,7 @@
 <img width="621" height="300" alt="Gemini_Generated_Image_kc3v5gkc3v5gkc3v (1)" src="https://github.com/user-attachments/assets/bfa017cf-ed44-427b-891b-686101c60296" />
 
 
+
 ---
 
 ## 👨‍💻 AI 개발자의 마음가짐
@@ -32,6 +33,9 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+<img src ="https://github-readme-stats.vercel.app/api?username=baebsae3123&show_icons=true&theme=tokyonight">
+</p>
 
 <p align="center">
 
