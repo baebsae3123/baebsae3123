@@ -48,7 +48,7 @@
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-<p align="center">
+<p >
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSP-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -70,14 +70,14 @@
 ---
 
 ### 🐧 OS
-<p align="center">
+<p >
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
 ### 🗄️ Database
-<p align="center">
+<p >
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge&logo=files&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
@@ -86,7 +86,7 @@
 ---
 
 ### 🛠️ Tools
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -97,7 +97,7 @@
 ---
 
 ## 📜 Certifications
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/정보처리%20산업기사-0052CC?style=for-the-badge&logo=bookstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/정보처리응용기능사-1E90FF?style=for-the-badge&logo=book&logoColor=white"/>
 <img src="https://img.shields.io/badge/정보처리기능사-4682B4?style=for-the-badge&logo=book&logoColor=white"/>
