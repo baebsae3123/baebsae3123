@@ -100,10 +100,13 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/한글-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </p>
+
 ---
 
 ## 💬 Discord
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/> 
+<p align="">
+  <a href="https://discord.com/users/여기-사용자ID">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
