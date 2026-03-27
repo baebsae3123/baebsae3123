@@ -102,7 +102,7 @@
 </p>
 ---
 
-##💬 Discord
+## 💬 Discord
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/> 
 </p>
