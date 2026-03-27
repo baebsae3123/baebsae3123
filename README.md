@@ -54,9 +54,30 @@
 ---
 
 ## 💻 Tech Stack
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=baebsae3123&show_icons=true&theme=tokyonight" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baebsae3123&layout=compact&theme=tokyonight" height="150"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baebsae3123&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=baebsae3123&theme=tokyonight"/>
+</p>
+
+---
+
+## 💻 Tech Stack
 
 ### 🧠 Languages
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSP-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -70,7 +91,7 @@
 ---
 
 ### ⚙️ Backend
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
@@ -78,14 +99,14 @@
 ---
 
 ### 🐧 OS
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
 ### 🗄️ Database
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge&logo=files&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
@@ -94,7 +115,7 @@
 ---
 
 ### 🛠️ Tools
-<p text_align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -105,7 +126,7 @@
 ---
 
 ## 📜 Certifications
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/정보처리%20산업기사-0052CC?style=for-the-badge&logo=bookstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/정보처리응용기능사-1E90FF?style=for-the-badge&logo=book&logoColor=white"/>
 <img src="https://img.shields.io/badge/정보처리기능사-4682B4?style=for-the-badge&logo=book&logoColor=white"/>
