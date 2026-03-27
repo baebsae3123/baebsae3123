@@ -18,7 +18,7 @@ AI 개발자
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_ID&theme=tokyonight)## 💻 사용 넒이 
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_ID&theme=tokyonight)
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
