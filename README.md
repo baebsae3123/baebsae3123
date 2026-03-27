@@ -14,7 +14,15 @@ DB에서 데이터 가져오기 (SQL) 엑셀 / CSV 정리 / 이상한 값 제거
 AI 개발자
 사용자 행동 분석/구매 데이터 분석/추천 시스템 개선
 
-## 💻 사용 넒이 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_ID&theme=tokyonight)## 💻 사용 넒이 
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
