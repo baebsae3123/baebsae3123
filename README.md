@@ -1,7 +1,8 @@
 # 🚀 AI Developer
 
 > 데이터로 문제를 해결하는 개발자
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=baebsae3123&show_icons=true&theme=tokyonight)
+![Uploading image.png…]()
+
 ---
 
 ## 👨‍💻 AI 개발자의 마음가짐
