@@ -16,10 +16,6 @@ AI 개발자
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_ID&theme=tokyonight)## 💻 사용 넒이 
