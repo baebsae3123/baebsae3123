@@ -1,7 +1,8 @@
 # 🚀 AI Developer
 
 > 데이터로 문제를 해결하는 개발자
-<img width="774" height="374" alt="image" src="https://github.com/user-attachments/assets/0ccdbedb-9b1d-471b-9d37-6a7afe4e2377" />
+<img width="1488" height="719" alt="Gemini_Generated_Image_kc3v5gkc3v5gkc3v" src="https://github.com/user-attachments/assets/5db93864-ff2d-44a4-982a-249e3014c7a8" />
+
 
 ---
 
