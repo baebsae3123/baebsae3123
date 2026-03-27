@@ -1,7 +1,7 @@
 # 🚀 AI Developer
 
 > 데이터로 문제를 해결하는 개발자
-![Uploading image.png…]()
+<img width="774" height="374" alt="image" src="https://github.com/user-attachments/assets/0ccdbedb-9b1d-471b-9d37-6a7afe4e2377" />
 
 ---
 
