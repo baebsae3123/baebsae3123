@@ -16,7 +16,7 @@ AI 개발자
 
 ## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baebsae3123&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_ID&theme=tokyonight)
 
