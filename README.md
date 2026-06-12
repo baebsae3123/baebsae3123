@@ -1,11 +1,5 @@
 # 🚀 AI Developer
 
-| 기능                   | 의미                        |
-| -------------------- | ------------------------- |
-| **Push**             | 내 브랜치에 바로 업로드             |
-| **Pull Request(PR)** | "내 변경사항을 이 브랜치에 합쳐주세요" 요청 |
-
-
 > 데이터로 문제를 해결하는 개발자
 
 <p align="center">
@@ -106,6 +100,12 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/한글-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </p>
+
+
+| 기능                   | 의미                        |
+| -------------------- | ------------------------- |
+| **Push**             | 내 브랜치에 바로 업로드             |
+| **Pull Request(PR)** | "내 변경사항을 이 브랜치에 합쳐주세요" 요청 |
 
 ---
 
