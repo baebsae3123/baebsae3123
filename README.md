@@ -1,4 +1,4 @@
-# 🚀 AI Developer
+# 🚀 Baebsae
 
 > 데이터로 문제를 해결하는 개발자
 
