@@ -1,6 +1,6 @@
 # 🚀 Baebsae
 
-> 데이터로 문제를 해결하는 개발자
+> 오류를 잘 해결하는 개발자
 
 <p align="center">
   <img width="621" height="300" alt="AI Dev Image" src="https://github.com/user-attachments/assets/bfa017cf-ed44-427b-891b-686101c60296" />
