@@ -10,7 +10,7 @@
 | -------------------- | ------------------------- |
 | **🍃Skin-Healing-AI**  | https://github.com/baebsae3123/Skin-Healing-AI      |
 | **🦕gyudiano** | https://github.com/baebsae3123/gyumungGame|
-|  | |
+| **🔈스피커 헤드셋 ON OFF** | https://github.com/baebsae3123?tab=repositories |
 
 ## 💻 Tech Stack (기술 스택)
 
