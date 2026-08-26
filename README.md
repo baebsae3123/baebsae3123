@@ -6,21 +6,6 @@
   <img width="621" height="300" alt="AI Dev Image" src="https://github.com/user-attachments/assets/bfa017cf-ed44-427b-891b-686101c60296" />
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=baebsae3123&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baebsae3123&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
-</p>
-
 ---
 
 ## 💻 Tech Stack
