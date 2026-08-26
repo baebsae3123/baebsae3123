@@ -6,7 +6,7 @@
   <img width="621" height="300" alt="AI Dev Image" src="https://github.com/user-attachments/assets/bfa017cf-ed44-427b-891b-686101c60296" />
 </p>
 
-## 🍃 대표작품 (Skin-Healing-AI) : https://github.com/baebsae3123/Skin-Healing-AI 
+## 🍃 대표작품 (Skin-Healing-AI) : <p> https://github.com/baebsae3123/Skin-Healing-AI </p 
 
 ## 💻 Tech Stack (기술 스택)
 
