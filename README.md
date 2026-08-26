@@ -69,10 +69,10 @@
 
 ---
 
-## 💬 SNS
+## 💬 연락처
 <p align="">
-  <a href="https://discord.com/users/여기-사용자ID">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://open.kakao.com/o/sb2iVDKi">
+    <img src="https://img.shields.io/badge/KaKao-ffec16?style=for-the-badge&logo=KaKao&logoColor=white"/>
   </a>
 </p>
 
