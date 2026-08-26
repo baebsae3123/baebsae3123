@@ -7,7 +7,6 @@
 </p>
 
 <p>대표작품 : https://github.com/baebsae3123/Skin-Healing-AI </p>
----
 
 ## 💻 Tech Stack (기술 스택)
 
