@@ -1,6 +1,6 @@
 # 🚀 Baebsae 🙋 About Me
 
-> 게임 개발 + AI 개발 + Web 개발
+> 게임 개발 + AI 웹사이트 개발
 > 
 > 책임감 있고 오류를 잘 해결하는 하는사람
 <p align="center">
