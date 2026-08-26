@@ -8,6 +8,12 @@
 
 ## 🍃 대표작품 (Skin-Healing-AI) : <p> https://github.com/baebsae3123/Skin-Healing-AI </p>
 
+| 대표작품             | 의미                      |
+| -------------------- | ------------------------- |
+| **Skin-Healing-AI**  | https://github.com/baebsae3123/Skin-Healing-AI      |
+| **** | |
+| **** | |
+
 ## 💻 Tech Stack (기술 스택)
 
 ### 🧠 Languages (언어)
