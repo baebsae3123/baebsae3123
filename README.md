@@ -69,7 +69,7 @@
 
 ---
 
-## 💬 Discord
+## 💬 SNS
 <p align="">
   <a href="https://discord.com/users/여기-사용자ID">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
