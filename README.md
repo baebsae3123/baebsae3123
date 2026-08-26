@@ -9,7 +9,7 @@
 | 대표작품             | 의미                      |
 | -------------------- | ------------------------- |
 | **🍃Skin-Healing-AI**  | https://github.com/baebsae3123/Skin-Healing-AI      |
-|  | |
+| **🦕gyudiano** | https://github.com/baebsae3123/gyumungGame|
 |  | |
 
 ## 💻 Tech Stack (기술 스택)
