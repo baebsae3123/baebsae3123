@@ -72,7 +72,7 @@
 ## 💬 연락처
 <p align="">
   <a href="https://open.kakao.com/o/sb2iVDKi">
-    <img src="https://img.shields.io/badge/KaKao-ffec16?style=for-the-badge&logo=KaKao&logoColor=white"/>
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=black"/>
   </a>
 </p>
 
