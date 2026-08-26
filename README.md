@@ -10,7 +10,7 @@
 
 ## 💻 Tech Stack
 
-### 🧠 Languages
+### 🧠 Languages (언어)
 <p align="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -22,25 +22,25 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend (백엔드 기술)
 <p align="">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-### 🐧 OS
+### 🐧 OS (사용 가능한 OS)
 <p align="">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Database (자주 사용하는 DB)
 <p align="">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge&logo=files&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
-### 🛠️ Tools
+### 🛠️ Tools (자주 쓰는 툴)
 <p align="">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
@@ -51,7 +51,7 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications (자격증)
 <p align="">
   <img src="https://img.shields.io/badge/정보처리%20산업기사-0052CC?style=for-the-badge&logo=bookstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/정보처리응용기능사-1E90FF?style=for-the-badge&logo=book&logoColor=white"/>
