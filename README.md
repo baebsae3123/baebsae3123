@@ -9,8 +9,8 @@
 | 대표작품             | 의미                      |
 | -------------------- | ------------------------- |
 | **🍃Skin-Healing-AI**  | https://github.com/baebsae3123/Skin-Healing-AI      |
-| **** | |
-| **** | |
+|  | |
+|  | |
 
 ## 💻 Tech Stack (기술 스택)
 
