@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack (기술 스택)
 
 ### 🧠 Languages (언어)
 <p align="">
