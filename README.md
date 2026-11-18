@@ -3,9 +3,6 @@
 > 게임 개발 + AI 웹사이트 개발
 > 
 > 책임감 있고 오류를 잘 해결하는 하는사람
-<p align="center">
-  <img width="621" height="300" alt="AI Dev Image" src="https://github.com/user-attachments/assets/bfa017cf-ed44-427b-891b-686101c60296" />
-</p>
 
 | 대표작품             | 의미                      |
 | -------------------- | ------------------------- |
